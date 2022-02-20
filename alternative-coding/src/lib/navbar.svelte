@@ -4,7 +4,7 @@ import {Navbar} from 'spaper';
 
 <Navbar>
     <h3 slot="brand">
-      <a href="#">AltoCode</a>
+      <a href="/">AltoCode</a>
     </h3>
     <ul class="inline">
       <li><a href="#">Documentation</a></li>
