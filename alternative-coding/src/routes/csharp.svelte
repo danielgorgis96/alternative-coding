@@ -39,7 +39,7 @@ Class Car {
               <Prism language="csharp" code="{classCode}" header=""/>
             </div>
             <div class='cell'>.
-                <img src="./static/car.png">
+                <img src="./static/Classes.png">
             </div>
         </div>
     </div>
@@ -105,5 +105,8 @@ html, body {
 }
 img{
     border-color: transparent;
+    max-width: 80%;
+    max-height: 80%;
+    margin-left: 10%;
 }
 </style>
