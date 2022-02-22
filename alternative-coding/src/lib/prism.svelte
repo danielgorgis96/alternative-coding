@@ -85,3 +85,12 @@
   <h2>{header}</h2>
   <pre><code class="language-{language}">{code}</code></pre>
 </div>
+
+<style>
+
+  .w3-container{
+    overflow: scroll;
+    max-height: 550px;
+    height: 1000px;
+  }
+</style>
